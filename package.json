@@ -1,0 +1,19 @@
+{
+  "name": "vlee4.github.io",
+  "version": "1.0.0",
+  "description": "The beginning of a Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlee4/vlee4.github.io.git"
+  },
+  "author": "vlee4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlee4/vlee4.github.io/issues"
+  },
+  "homepage": "https://github.com/vlee4/vlee4.github.io#readme"
+}
